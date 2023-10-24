@@ -1,10 +1,8 @@
-# Elecshop - eCommerce app w/ Next.js, Nest.js and MongoDB
+# eCommerce app w/ Next.js, Nest.js and MongoDB
 
 ![Elecshop preview image](./client/public/design/preview.png)
 
 ## The Challenge ⚡️
-
-I wanted to build another eCommerce website using newer technologies than my [previous eCommerce project](https://github.com/NightClover-code/basic-eCommerce-website), where I used `Firebase` to store data and `Redux` for state management.
 
 I went with a `client-server` approach, and this time I mixed two frameworks for the first time, which were `Next.js` and `Nest.js`.
 
@@ -30,36 +28,6 @@ Here was the challenge:
 - Typescript
 
 ## Running Locally 🖥️
-
-Clone the project
-
-```bash
-git clone https://github.com/NightClover-code/modern-ecommerce.git
-```
-
-Go to the project directory
-
-```bash
-cd modern-ecommerce
-```
-
-Remove remote origin
-
-```bash
-git remote remove origin
-```
-
-Install dependencies - Client
-
-```bash
-yarn install
-```
-
-Install dependencies - Server
-
-```bash
-yarn install
-```
 
 Add Environment Variables - Client
 
